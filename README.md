@@ -25,6 +25,13 @@ Codes for suntracker and controlling of rocker bogie by bluetooth are seperated.
     them becomes less than 50. After every comparisions solar panels moves by 1 deg reducing the differnce between 
     ldrs readings.
     
+## Highlighting features
+  * The vehicle can traverse slopes of upto 45&#176; gradient
+  * Steps of height 15cm can be climbed by the vehicle
+  * Suntracker increases energy trapping efficiency by 38.96%.
+
+## Paper
+- [__Suntracker on Rocker-Bogie Mechanism__](https://doi.org/10.1007/978-981-15-3639-7_86), Murarka,S. et al, Kalamkar, V., Monkova, K. (eds) Advances in Mechanical Engineering. Lecture Notes in Mechanical Engineering. Springer, Singapore, 2020.
 ## Credits
   ### Team Members
   * Aditya Wadichar
