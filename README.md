@@ -27,7 +27,7 @@ Codes for suntracker and controlling of rocker bogie by bluetooth are seperated.
     
 ## Highlighting features
   * The vehicle can traverse slopes of upto 45&#176; gradient
-  * Steps of height 15cm can be climbed by the vehicle
+  * Obstacles of height 15cm can be overcome by the vehicle
   * Suntracker increases energy trapping efficiency by 38.96%.
 
 ## Paper
